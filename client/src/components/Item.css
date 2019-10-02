@@ -1,0 +1,11 @@
+/* .item .item-content {
+    align-self: center;
+} */
+
+.item .item-image{
+    width: 64px;
+}
+
+.item {
+    min-height: 42.75px;
+}
